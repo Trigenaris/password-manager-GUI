@@ -17,3 +17,13 @@ Required modules for this project are:
 
 * **tkinter**
 * **random**
+
+<h2> How does it work?</h2>
+
+This is how our program looks like:
+
+![Screenshot_password_manager](https://github.com/Trigenaris/password-manager-GUI/assets/122381599/3f068c62-8254-4d0d-af50-ac7037d1e1f4)
+
+Firstly we fill in the `Website` and the `Email/Username` entries as shown:
+
+![Screenshot_password_manager1](https://github.com/Trigenaris/password-manager-GUI/assets/122381599/404f0720-d06e-414c-88fa-fc147f87d022)
