@@ -1,4 +1,4 @@
-<h1 align="center"> 🔑 Password Manager GUI via Tkinter </h1>
+<h1 align="center"> 🔑 Password Manager - Tkinter GUI </h1>
 
 In this project, we create a password manager via **Tkinter**. The program expects three entries from the user, those are 
 respectively:
